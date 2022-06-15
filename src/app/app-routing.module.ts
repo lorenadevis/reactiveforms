@@ -1,4 +1,4 @@
-import { FormularioBasicoComponent } from "./formulario-basico/formulario-basico.component";
+import { FormularioBasicoComponent } from "./ejercicio/formulario-basico.component";
 import { NgModule } from "@angular/core";
 import { Routes, RouterModule } from "@angular/router";
 
